@@ -83,7 +83,6 @@ currency-converter/
 ├── src/                 # React frontend
 ├── backend/                 # Node.js backend
 │   ├── Route/
-│   ├── controllers/
 │   ├── Model/
 │   └── DB/
 │   └── index.js
