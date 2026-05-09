@@ -259,7 +259,7 @@ You can add an MIT License if you want the project to be open for reuse and lear
 
 **Ajay Sharma**
 
-- GitHub: https://github.com/ajaysharma3423
+- GitHub: https://github.com/ajaySharma2096
 
 ---
 
